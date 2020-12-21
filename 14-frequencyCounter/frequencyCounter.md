@@ -36,7 +36,7 @@ frequencyCounter("computer") -----> { "c": 1, "o": 1, "m": 1, "p": 1, "u": 1, "t
 
 The test suite (`frequencyCounter.test.js`) is ultimately designed to verify four core features and expectations:
 
-1) The function should return an `object`
-2) The amount of keys in the output `object` should be equivalent to the amount of unique letters in the word
-3) The output `object` should contain key:value pairs that indicate accurate frequencies of each letter in the input `word`
-4) In defending against hard-coding, any and all well-formed arguments will lead to sufficient coverage of core features/expectations #2 and #3 (**note**: see the respective test suite for more information)
+1. The function should return an `object`
+2. The amount of keys in the output `object` should be equivalent to the amount of unique letters in the word
+3. The output `object` should contain key:value pairs that indicate accurate frequencies of each letter in the input `word`
+4. In defending against hard-coding, any and all well-formed arguments will lead to sufficient coverage of core features/expectations #2 and #3 (**note**: see the respective test suite for more information)
