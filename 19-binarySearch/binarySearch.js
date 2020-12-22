@@ -4,7 +4,8 @@ class MySolution {
   }
 
   binarySearch(nums, target) {
-    // Insert code here;
+    var x;
+    var y;
   }
 }
 
